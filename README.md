@@ -1,6 +1,3 @@
-# UserManagement-SQFLITE-GETX-
-A professional, minimalist Flutter CRUD application using SQFlite for local storage and GetX for reactive state management
-
 # 🚀 Flutter Minimal CRUD with SQFlite & GetX
 A clean, production-ready implementation of a local user management system built with **Flutter**, **SQFlite**, and **GetX**. This project demonstrates a minimal white-focused design pattern with robust error handling and reactive state management.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
