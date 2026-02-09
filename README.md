@@ -23,8 +23,6 @@ A clean, production-ready implementation of a local user management system built
 <<<<<<< HEAD
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
 - **Framework**: [Flutter](https://flutter.dev)
 - **State Management**: [GetX](https://pub.dev/packages/get)
 - **Database**: [SQFlite](https://pub.dev/packages/sqflite)
