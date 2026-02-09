@@ -25,7 +25,6 @@ A clean, production-ready implementation of a local user management system built
 ## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
->>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 - **Framework**: [Flutter](https://flutter.dev)
 - **State Management**: [GetX](https://pub.dev/packages/get)
 - **Database**: [SQFlite](https://pub.dev/packages/sqflite)
@@ -84,7 +83,6 @@ A clean, production-ready implementation of a local user management system built
    ```bash
    flutter pub get
    ```
->>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 3. **Run the app**
    ```bash
    flutter run
