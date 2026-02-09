@@ -1,5 +1,5 @@
 # 🚀 Flutter Minimal CRUD with SQFlite & GetX
-<<<<<<< HEAD
+
 
 A clean, production-ready implementation of a local user management system built with **Flutter**, **SQFlite**, and **GetX**. This project demonstrates a minimal white-focused design pattern with robust error handling and reactive state management.
 
@@ -9,13 +9,11 @@ A clean, production-ready implementation of a local user management system built
 
 ## ✨ Key Features
 
-=======
 A clean, production-ready implementation of a local user management system built with **Flutter**, **SQFlite**, and **GetX**. This project demonstrates a minimal white-focused design pattern with robust error handling and reactive state management.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-%238B5CF6.svg?style=flat)
 ## ✨ Key Features
->>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 - 💾 **Local Persistence**: Full CRUD operations using SQFlite.
 - ⚡ **Reactive State Management**: Implementation using GetX for instant UI updates.
 - 🎨 **Minimal UI/UX**: Professional white-focused design with smooth animations.
@@ -26,7 +24,6 @@ A clean, production-ready implementation of a local user management system built
 
 ## 🛠️ Tech Stack
 
-=======
 ## 🛠️ Tech Stack
 >>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 - **Framework**: [Flutter](https://flutter.dev)
@@ -67,7 +64,6 @@ A clean, production-ready implementation of a local user management system built
    flutter pub get
    ```
 
-=======
 ## 📸 Screenshots
 |                           Entry Form                           |                          User List                           |                         Error Handling                          |
 | :------------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: |
@@ -93,13 +89,8 @@ A clean, production-ready implementation of a local user management system built
    ```bash
    flutter run
    ```
-<<<<<<< HEAD
 
 ## 🏗️ Project Structure
-
-=======
-## 🏗️ Project Structure
->>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 ```text
 lib/
 ├── db_handler.dart      # Database initialization & CRUD logic
@@ -110,17 +101,13 @@ lib/
 ├── validation_mixin.dart # Reusable validation logic
 └── main.dart            # Theme and app entry point
 ```
-<<<<<<< HEAD
 
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-=======
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 ---
->>>>>>> c6f3be543c919fb087ceb5fe4ad7a737006c5fcf
 ⭐ **If you find this project helpful, give it a star!**
